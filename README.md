@@ -4,13 +4,6 @@
 
 An end-to-end predictive-maintenance project for estimating the **Remaining Useful Life (RUL)** of aircraft turbofan engines. The pipeline processes historical sensor readings using a **Bronze → Silver → Gold** architecture, trains regression models, and simulates live predictions and maintenance alerts.
 
-## Team
-
-- Hala Belmoukhtar
-- Oumayma Zerrik
-- Hamza El Attar
-
-**Assignment:** Lab 5 — End-to-End Predictive Maintenance Pipeline  
 **Environment used:** Google Colab (CPU), Apache Spark 3.5.0
 
 ## Project objectives
